@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/mazaalaimarket/static/css/main.84ca8a52.chunk.css",
+    "main.js": "/mazaalaimarket/static/js/main.cdb44b4c.chunk.js",
+    "main.js.map": "/mazaalaimarket/static/js/main.cdb44b4c.chunk.js.map",
+    "runtime~main.js": "/mazaalaimarket/static/js/runtime~main.21a3f555.js",
+    "runtime~main.js.map": "/mazaalaimarket/static/js/runtime~main.21a3f555.js.map",
+    "static/css/2.22a7d4ef.chunk.css": "/mazaalaimarket/static/css/2.22a7d4ef.chunk.css",
+    "static/js/2.ffa7283f.chunk.js": "/mazaalaimarket/static/js/2.ffa7283f.chunk.js",
+    "static/js/2.ffa7283f.chunk.js.map": "/mazaalaimarket/static/js/2.ffa7283f.chunk.js.map",
+    "index.html": "/mazaalaimarket/index.html",
+    "precache-manifest.e1f14142a46df0fe7d3292df36c4bc98.js": "/mazaalaimarket/precache-manifest.e1f14142a46df0fe7d3292df36c4bc98.js",
+    "service-worker.js": "/mazaalaimarket/service-worker.js",
+    "static/css/2.22a7d4ef.chunk.css.map": "/mazaalaimarket/static/css/2.22a7d4ef.chunk.css.map",
+    "static/css/main.84ca8a52.chunk.css.map": "/mazaalaimarket/static/css/main.84ca8a52.chunk.css.map",
+    "static/media/bg.jpg": "/mazaalaimarket/static/media/bg.8b69af64.jpg",
+    "static/media/brand.svg": "/mazaalaimarket/static/media/brand.42497fb3.svg",
+    "static/media/logo.png": "/mazaalaimarket/static/media/logo.fef593c9.png",
+    "static/media/logopic.png": "/mazaalaimarket/static/media/logopic.e1f5f591.png",
+    "static/media/logoword.png": "/mazaalaimarket/static/media/logoword.d3eaf389.png",
+    "static/media/logowordblack.png": "/mazaalaimarket/static/media/logowordblack.adb442a5.png",
+    "static/media/mazaalai-1.svg": "/mazaalaimarket/static/media/mazaalai-1.8e1ae1b2.svg",
+    "static/media/mazaalai-2.svg": "/mazaalaimarket/static/media/mazaalai-2.adf6b52c.svg",
+    "static/media/zorilt.svg": "/mazaalaimarket/static/media/zorilt.88d8ee14.svg"
+  }
+}
