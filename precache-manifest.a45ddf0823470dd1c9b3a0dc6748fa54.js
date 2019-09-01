@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7eb6f4928e90325ab9cc00715ae03923",
+    "revision": "85a8066232438cc60291f06006ef8ad1",
     "url": "/mazaalaimarket/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/mazaalaimarket/static/css/2.22a7d4ef.chunk.css"
   },
   {
-    "revision": "22a47d120e966a5b41ee",
+    "revision": "bd7f8e10e4cf5fe3bd36",
     "url": "/mazaalaimarket/static/css/main.84ca8a52.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/mazaalaimarket/static/js/2.ffa7283f.chunk.js"
   },
   {
-    "revision": "22a47d120e966a5b41ee",
-    "url": "/mazaalaimarket/static/js/main.cdb44b4c.chunk.js"
+    "revision": "bd7f8e10e4cf5fe3bd36",
+    "url": "/mazaalaimarket/static/js/main.3daa38e4.chunk.js"
   },
   {
     "revision": "691d05253469e80c9948",

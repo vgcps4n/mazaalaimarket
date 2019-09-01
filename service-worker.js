@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/mazaalaimarket/precache-manifest.e1f14142a46df0fe7d3292df36c4bc98.js"
+  "/mazaalaimarket/precache-manifest.a45ddf0823470dd1c9b3a0dc6748fa54.js"
 );
 
 self.addEventListener('message', (event) => {
