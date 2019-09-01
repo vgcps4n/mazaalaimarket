@@ -1,0 +1,15 @@
+.nav-item:hover {
+  background-color: #0297d8;
+}
+.nav-item button:hover {
+  color: white !important;
+}
+#nav {
+  background-color: #0297d8;
+}
+#nav-menu {
+  padding: 0;
+}
+#logo {
+  max-height: 40px;
+}
